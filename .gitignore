@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+#过滤web/IM/.idea/ 和web/IM/build/里面的文件
+web/IM/.idea/   
+web/IM/build/
